@@ -1,7 +1,7 @@
 {
-  "name": "react-ts-webpack-template",
+  "name": "matrix",
   "version": "1.0.1",
-  "description": "This is custom template without CRA.",
+  "description": "This is a matrix app developed for FIVE trainee program.",
   "main": "index.js",
   "scripts": {
     "start:dev": "webpack serve --mode development --config webpack.config.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grynkiv0x001/react-ts-webpack-template.git"
+    "url": "git+https://github.com/grynkiv0x001/matrix.git"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,19 @@
+.form-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.form {
+  display: flex;
+
+  // TODO: Move as a separate mixin/variable
+  min-height: 400px;
+  min-width: 400px;
+
+  align-items: baseline;
+
+  // FIXME: Resolve using colors like this (use variables)
+  border: 2px solid #000;
+}

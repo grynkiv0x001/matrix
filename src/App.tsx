@@ -1,7 +1,13 @@
+import { GenerateForm } from './components';
+
 import './App.scss';
 
 const App = () => {
-  return <div className="container">Hello, World!</div>;
+  return (
+    <div className="container">
+      <GenerateForm />
+    </div>
+  );
 };
 
 export default App;
